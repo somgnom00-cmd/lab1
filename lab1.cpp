@@ -1,3 +1,4 @@
+// Выполнил: somgnom00-cmd
 #include <iostream>
 #include <cmath>
 
