@@ -1,12 +1,11 @@
-//ijernsetbesk
+//ijeasdfasf оЛАо
 #include <iostream>
 #include <cmath>
 
 int main() {
     double a, b, c;
     std::cout << "Введите стороны треугольника: ";
-    std::cin >> a >> b >> c;
-
+    std::cin >> a >> b >> c; 
     // 1. Периметр
     double p = a + b + c;
     std::cout << "Периметр: " << p << std::endl;
